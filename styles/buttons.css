@@ -46,7 +46,7 @@
     font-size: 1.125rem;
 }
 
-.btn [aria-label] {
+.btn[aria-label] {
     position: relative;
 
     &::before {
